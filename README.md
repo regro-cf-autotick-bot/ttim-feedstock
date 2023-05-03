@@ -146,5 +146,6 @@ Feedstock Maintainers
 =====================
 
 * [@Huite](https://github.com/Huite/)
+* [@jentjr](https://github.com/jentjr/)
 * [@mbakker7](https://github.com/mbakker7/)
 
