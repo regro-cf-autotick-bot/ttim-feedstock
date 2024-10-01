@@ -18,7 +18,7 @@ requirements:
   host:
     - python >=3.7
     - pip
-    - setuptools_scm
+    - setuptools
   run:
     - python >=3.7
     - lmfit >=1.0
